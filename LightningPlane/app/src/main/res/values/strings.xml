@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LightingPlane</string>
+    <string name="hello">Hello World, FinalPlaneActivity!</string>
+    <string name="rank">飞机战绩</string>
+    <string name="start">开始游戏</string>
+    <string name="set">游戏设置</string>
+    <string name="out">退出游戏</string>
+    <string name="num">名次</string>
+    <string name="name">姓名</string>
+    <string name="score">分数</string>
+    <string name="backMusic">背景音乐</string>
+    <string name="sound">音效</string>
+</resources>
